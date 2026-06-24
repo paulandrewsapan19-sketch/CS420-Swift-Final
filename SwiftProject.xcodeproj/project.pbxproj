@@ -22,9 +22,22 @@
 		01E6C5092FEAB20F00C320C6 /* SwiftProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftProject; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		01E6C5402FEB1A7800C320C6 /* Exceptions for "SwiftProject" folder in "SwiftProject" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Untitled.swift,
+			);
+			target = 01E6C5082FEAB20F00C320C6 /* SwiftProject */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		01E6C50B2FEAB20F00C320C6 /* SwiftProject */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				01E6C5402FEB1A7800C320C6 /* Exceptions for "SwiftProject" folder in "SwiftProject" target */,
+			);
 			path = SwiftProject;
 			sourceTree = "<group>";
 		};
